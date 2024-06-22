@@ -1,0 +1,167 @@
+#img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10%;
+}
+#paragraph{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+   font-weight: 700;
+}
+#background{
+    padding: 200px;
+    background-image: url("background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+h1{
+    color: white;
+}
+#me{
+    padding: 20px;
+    text-decoration: underline red;
+}
+#content{
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 30px;
+    padding-left: 50px;
+    width: 300px;
+}
+#expertise{
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid black ;
+    border-radius: 10%;
+    font-weight: 900;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: -15px;
+}
+#experience{
+   
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid black ;
+    border-radius: 10%;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 100px;
+}
+.images{
+    border-radius: 10%;
+}
+#blog{
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid black ;
+    border-radius: 10%;
+    padding: 10px;
+}
+#car{
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid black ;
+    border-radius: 10%;
+    padding: 10px;
+}
+#calculator{
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid black ;
+    border-radius: 10%;
+    padding: 10px;
+}
+#footer{
+    color: rgb(154, 152, 152);
+    padding: 150px;
+    opacity: 1;
+    background-color: rgb(41, 41, 42);
+}
+#socail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.img{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+}
+.space{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(41, 41, 42);
+}
+.hov:hover {
+  color: red;
+}
+#aboutme{
+    display: none;
+   position: absolute;
+   left: 870px;
+    padding: 40px;
+    width: 600px;
+    color: white;
+    font-size: 20px;
+   font-weight: 700;
+    background-color:  rgb(41, 41, 42);
+    opacity: 1;
+}
+#infome{
+    display: none;
+   position: absolute;
+   left: 870px;
+    padding: 40px;
+    width: 600px;
+    color: white;
+    font-size: 20px;
+   font-weight: 700;
+   background-color:  rgb(41, 41, 42);
+   opacity: 1;
+}
+#contactme{
+    display: none;
+    position: absolute;
+    left: 870px;
+     padding: 40px;
+     width: 600px;
+     color: white;
+     font-size: 20px;
+    font-weight: 700;
+    background-color:  rgb(41, 41, 42);
+    opacity: 1;
+}
+ #close{
+    position: relative;
+    left: 500px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50% ;
+}
+#close2{
+    position: relative;
+    left: 500px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50% ;
+}
+#close3{
+    position: relative;
+    left: 500px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50% ;
+}
+    
+
