@@ -164,6 +164,13 @@ h1{
     width: 40px;
     border-radius: 50% ;
 }
+#navbarNav{
+    background-color: rgb(241, 235, 235);
+}
+.navbar-nav{
+    background-color: rgb(243, 237, 237);
+}
+
     
 
 
