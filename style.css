@@ -164,7 +164,10 @@ h1{
     width: 40px;
     border-radius: 50% ;
 }
-
+nav{
+    color: black;
+    background-color: white;
+}
 #navbarNav{
     width: 80px;
     background-color: white;
