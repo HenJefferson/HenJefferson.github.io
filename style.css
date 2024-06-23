@@ -21,7 +21,7 @@ h1{
 }
 #me{
     padding: 20px;
-    text-decoration: underline red;
+    text-decoration: underline rgb(41, 41, 42);
 }
 #content{
     margin-left: 20px;
@@ -70,8 +70,9 @@ h1{
     border: 2px solid black ;
     border-radius: 10%;
     padding: -50px;
-    padding-top: 5px
+    padding-top: 5px;
 }
+
 #calculator{
     height: 350px;
     width: 350px;
@@ -101,7 +102,7 @@ h1{
 }
 .space{
     height: 40px;
-    width: 40px;
+    width: 100px;
     background-color: rgb(41, 41, 42);
 }
 .hov:hover {
@@ -164,29 +165,9 @@ h1{
     width: 40px;
     border-radius: 50% ;
 }
-nav{
-    color: black;
-    background-color: white;
-}
-#navbarNav{
-    width: 80px;
-    background-color: white;
-}
-.navbar-nav{
-    width: 80px;
-    background-color: white;
-}
-.nav-item{
-    border-radius: 10% ;
-    height: 50px;
-    width: 80px;
-    background-color: white;
-}
-.nav-link{
-    padding: -30px;
-    height: 20px;
-    width: 80px;
-    background-color: white;
+#list-group{
+    width: 100px;
+    display: none;
 }
 
     
