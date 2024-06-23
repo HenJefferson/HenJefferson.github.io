@@ -1,4 +1,5 @@
 $(function() {
+
     $("#about").click(function(){
       $("#aboutme").toggle(); // Use toggle() to show/hide an element
       $("nav").css("opacity","0")
@@ -30,5 +31,27 @@ $(function() {
       $("nav").css("opacity","1");
     })
 
+    $("#drop").click(function(){
+      $("#list-group").toggle();
+    })
+   
+
+   /* $("#abts").click(function(){
+      $("#list-group").hide();
+      $("#aboutme").toggle();
+    })
+    */
+   
+    $("#infos").click(function(){
+      $("#list-group").hide();
+      $("#infome").toggle();
+    })
+
+    $("#cont").click(function(){
+      $("#list-group").hide();
+      $("#contactme").toggle();
+    })
+
   });
+  
   
